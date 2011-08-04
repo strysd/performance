@@ -1,0 +1,13 @@
+public folder:
+You will locate files under the folder into htdocs.
+For example, C:\path\to\apache\htdocs
+
+application folder:
+You will locate this folder in 2 levels above htdocs.
+For example, C:\path\to\application
+
+
+Database:
+This sample assume posts table under "test" calatog(schema).
+Please change user and password on IndexContoller.php before use.
+
